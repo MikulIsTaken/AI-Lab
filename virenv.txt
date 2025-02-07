@@ -1,0 +1,1 @@
+Virtual Enviroment - source /home/mikul/Code/Python/VIR-ENV/my_shared_env/bin/activate
