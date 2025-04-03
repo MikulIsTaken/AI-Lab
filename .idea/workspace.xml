@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15889a76-e55b-43e2-ae1d-7f06621feed2" name="Changes" comment="Rename">
+      <change afterPath="$PROJECT_DIR$/LAB-10/L101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB-10/L102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB-10/Lab-10.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB-11/L111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB-11/L112.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB-11/Lab-11.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB-12/L121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB-12/L122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB-12/Lab-12.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AI-Lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI-Lab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB-4/Lab-4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LAB-4/Lab-4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB-5/Lab-5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LAB-5/Lab-5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +47,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/MikulIsTaken/AI-Lab.git&quot;,
-    &quot;accountId&quot;: &quot;be02830b-7005-4d61-809c-f76c9f732c24&quot;
+    &quot;accountId&quot;: &quot;bd4589ec-60ff-4a10-92e2-d3b7ef97d37a&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -47,24 +61,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.24.executor&quot;: &quot;Run&quot;,
-    &quot;Python.L12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.L13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.L21.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/KIIT/AI/AI-Lab&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.24.executor": "Run",
+    "Python.L101.executor": "Run",
+    "Python.L102.executor": "Run",
+    "Python.L111.executor": "Run",
+    "Python.L112.executor": "Run",
+    "Python.L12.executor": "Run",
+    "Python.L121.executor": "Run",
+    "Python.L122.executor": "Run",
+    "Python.L13.executor": "Run",
+    "Python.L21.executor": "Run",
+    "Python.L41.executor": "Run",
+    "Python.L42.executor": "Run",
+    "Python.L43.executor": "Run",
+    "Python.L44.executor": "Run",
+    "Python.L45.executor": "Run",
+    "Python.L46.executor": "Run",
+    "Python.L47.executor": "Run",
+    "Python.L51.executor": "Run",
+    "Python.L61.executor": "Run",
+    "Python.L62.executor": "Run",
+    "Python.L71.executor": "Run",
+    "Python.L81.executor": "Run",
+    "Python.L91.executor": "Run",
+    "Python.L91P.executor": "Run",
+    "Python.L91U.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/mikul/Code/AI-Lab",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LAB-11" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="AI-Lab" />
@@ -93,8 +136,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
-        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
@@ -111,6 +154,37 @@
       <workItem from="1733457490649" duration="3794000" />
       <workItem from="1734061815685" duration="4319000" />
       <workItem from="1734066180786" duration="137000" />
+      <workItem from="1736481465489" duration="2860000" />
+      <workItem from="1736484863901" duration="1147000" />
+      <workItem from="1736747343118" duration="17000" />
+      <workItem from="1737041713880" duration="8945000" />
+      <workItem from="1737090195707" duration="341000" />
+      <workItem from="1737092039362" duration="73000" />
+      <workItem from="1737198676423" duration="1659000" />
+      <workItem from="1737640939386" duration="2739000" />
+      <workItem from="1737709770589" duration="3856000" />
+      <workItem from="1737727747686" duration="15000" />
+      <workItem from="1738233385762" duration="32000" />
+      <workItem from="1738240337205" duration="731000" />
+      <workItem from="1738278978116" duration="417000" />
+      <workItem from="1738279417824" duration="16000" />
+      <workItem from="1738295155128" duration="4319000" />
+      <workItem from="1738300760786" duration="22000" />
+      <workItem from="1738472537890" duration="31000" />
+      <workItem from="1738899890003" duration="5622000" />
+      <workItem from="1740109171067" duration="4626000" />
+      <workItem from="1740243444274" duration="22000" />
+      <workItem from="1741429856286" duration="678000" />
+      <workItem from="1742483905313" duration="6202000" />
+      <workItem from="1742532042589" duration="296000" />
+      <workItem from="1742811507632" duration="7000" />
+      <workItem from="1742869760540" duration="2000" />
+      <workItem from="1743337059682" duration="1607000" />
+      <workItem from="1743339118942" duration="4000" />
+      <workItem from="1743339136638" duration="3000" />
+      <workItem from="1743339194507" duration="36000" />
+      <workItem from="1743425916738" duration="518000" />
+      <workItem from="1743662357864" duration="3996000" />
     </task>
     <task id="LOCAL-00001" summary="Rename">
       <option name="closed" value="true" />
@@ -126,25 +200,47 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Rename" />
     <option name="LAST_COMMIT_MESSAGE" value="Rename" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AI_Lab$L21.coverage" NAME="L21 Coverage Results" MODIFIED="1734062637022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-2" />
     <SUITE FILE_PATH="coverage/AI_Lab$L13.coverage" NAME="L13 Coverage Results" MODIFIED="1733459496653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-1" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L42.coverage" NAME="L42 Coverage Results" MODIFIED="1737042675130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-4" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L45.coverage" NAME="L45 Coverage Results" MODIFIED="1737044594038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-4" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L71.coverage" NAME="L71 Coverage Results" MODIFIED="1740112003824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-7" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L51.coverage" NAME="L51 Coverage Results" MODIFIED="1737643187213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-5" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L111.coverage" NAME="L111 Coverage Results" MODIFIED="1742530541228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-11" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L102.coverage" NAME="L102 Coverage Results" MODIFIED="1742485998230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-10" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L43.coverage" NAME="L43 Coverage Results" MODIFIED="1737043569214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-4" />
+    <SUITE FILE_PATH="coverage/AI_Lab$main.coverage" NAME="main Coverage Results" MODIFIED="1743339204456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L81.coverage" NAME="L81 Coverage Results" MODIFIED="1740111996401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-8" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L61.coverage" NAME="L61 Coverage Results" MODIFIED="1740112013131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-6" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L122.coverage" NAME="L122 Coverage Results" MODIFIED="1743663050593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-12" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L41.coverage" NAME="L41 Coverage Results" MODIFIED="1737042432288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-4" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L46.coverage" NAME="L46 Coverage Results" MODIFIED="1737044890427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-4" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L91U.coverage" NAME="L91U Coverage Results" MODIFIED="1738901961791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-9" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L101.coverage" NAME="L101 Coverage Results" MODIFIED="1742485241277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-10" />
     <SUITE FILE_PATH="coverage/AI_Lab$24.coverage" NAME="24 Coverage Results" MODIFIED="1734063719893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-2" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L62.coverage" NAME="L62 Coverage Results" MODIFIED="1737200290773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-6" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L91.coverage" NAME="L91 Coverage Results" MODIFIED="1738901481333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-9" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L91P.coverage" NAME="L91P Coverage Results" MODIFIED="1738901947201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-9" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L44.coverage" NAME="L44 Coverage Results" MODIFIED="1738903127777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-4" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L47.coverage" NAME="L47 Coverage Results" MODIFIED="1737045390487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-4" />
     <SUITE FILE_PATH="coverage/AI_Lab$L12.coverage" NAME="L12 Coverage Results" MODIFIED="1733458974008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-1" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L121.coverage" NAME="L121 Coverage Results" MODIFIED="1743339214112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-12" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L112.coverage" NAME="L112 Coverage Results" MODIFIED="1742531728456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-11" />
+    <SUITE FILE_PATH="coverage/AI_Lab$L21.coverage" NAME="L21 Coverage Results" MODIFIED="1734062637022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-2" />
   </component>
 </project>
