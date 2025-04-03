@@ -323,3 +323,70 @@ Define heuristic functions:
 Lab-9 code in Jupyter
 
 ---
+
+## Lab-10 (21/2/25)
+
+---
+
+### L101.py
+
+Tasks:
+Implement A* with:
+The Manhattan distance heuristic applies to grids without any diagonal movement.
+The Euclidean distance heuristic is applicable to grids that allow diagonal movement.
+Use a plotting library to visualize the found path.
+Compare A* with BFS and Uniform Cost Search.
+
+---
+
+### Lab-10.ipynb
+
+Lab-10 code in Jupyter
+
+---
+
+## Lab-11 (21/3/25)
+
+---
+
+### L111.py
+
+Game AI Using Search Algorithms
+Objective: Implement AI to solve a simple turn-based game.
+Problem Statement: Design an AI agent to play a game (e.g., Tic-Tac-Toe or
+Snake and Ladder) using search algorithms.
+Tasks:
+1. Use BFS and DFS for exploring game states.
+2. Implement A* Search with a heuristic function to improve efficiency.
+3. Compare search strategies for different game board configurations.
+
+---
+
+### Lab-11.ipynb
+
+Lab-11 code in Jupyter
+
+---
+
+## Lab-12 (28/3/25)
+
+---
+
+### L121.py
+
+Navigation with Multiple Goals
+Objective: Solve a problem where multiple goals exist using search algorithms.
+Problem Statement: A robot in a grid needs to collect items (goals) before
+reaching an exit. Each goal has a different priority or cost.
+Tasks:
+1. Use BFS/DFS for simpler scenarios (unweighted goals).
+2. Implement A* or Uniform Cost Search for weighted scenarios.
+3. Analyze the trade-offs between path length and goal priority.
+
+---
+
+### Lab-12.ipynb
+
+Lab-12 code in Jupyter
+
+---

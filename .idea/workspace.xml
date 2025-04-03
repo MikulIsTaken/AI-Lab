@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15889a76-e55b-43e2-ae1d-7f06621feed2" name="Changes" comment="Rename">
-      <change afterPath="$PROJECT_DIR$/LAB-10/L101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB-10/L102.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB-10/Lab-10.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB-11/L111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB-11/L112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB-11/Lab-11.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB-12/L121.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB-12/L122.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB-12/Lab-12.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AI-Lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI-Lab.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="15889a76-e55b-43e2-ae1d-7f06621feed2" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB-4/Lab-4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LAB-4/Lab-4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB-5/Lab-5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LAB-5/Lab-5.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +34,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/MikulIsTaken/AI-Lab.git&quot;,
-    &quot;accountId&quot;: &quot;bd4589ec-60ff-4a10-92e2-d3b7ef97d37a&quot;
+    &quot;accountId&quot;: &quot;b3d488ba-ea45-48f6-89f5-fad1e9e7c2f5&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -184,7 +171,8 @@
       <workItem from="1743339136638" duration="3000" />
       <workItem from="1743339194507" duration="36000" />
       <workItem from="1743425916738" duration="518000" />
-      <workItem from="1743662357864" duration="3996000" />
+      <workItem from="1743662357864" duration="4929000" />
+      <workItem from="1743675398173" duration="442000" />
     </task>
     <task id="LOCAL-00001" summary="Rename">
       <option name="closed" value="true" />
@@ -194,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734065632341</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1743669133586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743669133586</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +209,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AI_Lab$L13.coverage" NAME="L13 Coverage Results" MODIFIED="1733459496653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-1" />
