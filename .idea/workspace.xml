@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15889a76-e55b-43e2-ae1d-7f06621feed2" name="Changes" comment="update">
+    <list default="true" id="15889a76-e55b-43e2-ae1d-7f06621feed2" name="Changes" comment="update readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,47 +47,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.24.executor": "Run",
-    "Python.L101.executor": "Run",
-    "Python.L102.executor": "Run",
-    "Python.L111.executor": "Run",
-    "Python.L112.executor": "Run",
-    "Python.L12.executor": "Run",
-    "Python.L121.executor": "Run",
-    "Python.L122.executor": "Run",
-    "Python.L13.executor": "Run",
-    "Python.L21.executor": "Run",
-    "Python.L41.executor": "Run",
-    "Python.L42.executor": "Run",
-    "Python.L43.executor": "Run",
-    "Python.L44.executor": "Run",
-    "Python.L45.executor": "Run",
-    "Python.L46.executor": "Run",
-    "Python.L47.executor": "Run",
-    "Python.L51.executor": "Run",
-    "Python.L61.executor": "Run",
-    "Python.L62.executor": "Run",
-    "Python.L71.executor": "Run",
-    "Python.L81.executor": "Run",
-    "Python.L91.executor": "Run",
-    "Python.L91P.executor": "Run",
-    "Python.L91U.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/mikul/Code/AI-Lab",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L101.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L102.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L111.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L112.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L121.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L122.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L41.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L42.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L43.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L44.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L45.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L46.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L47.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L51.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L61.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L62.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L71.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L81.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L91.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L91P.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L91U.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mikul/Code/AI-Lab&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/LAB-11" />
@@ -172,7 +171,7 @@
       <workItem from="1743339194507" duration="36000" />
       <workItem from="1743425916738" duration="518000" />
       <workItem from="1743662357864" duration="4929000" />
-      <workItem from="1743675398173" duration="442000" />
+      <workItem from="1743675398173" duration="3351000" />
     </task>
     <task id="LOCAL-00001" summary="Rename">
       <option name="closed" value="true" />
@@ -190,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743669133586</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update readme">
+      <option name="closed" value="true" />
+      <created>1743675854118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743675854118</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +217,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Rename" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="update readme" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AI_Lab$L13.coverage" NAME="L13 Coverage Results" MODIFIED="1733459496653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB-1" />
